@@ -1,3 +1,7 @@
 demo
 hello
+<<<<<<< HEAD
 hello by main
+=======
+by feature
+>>>>>>> feature
